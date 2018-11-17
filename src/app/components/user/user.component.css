@@ -1,0 +1,15 @@
+.heading {
+    background-color: lightgray;
+}
+
+.pain-level-gradient {
+    background-image: linear-gradient(to right, green, yellow, orange, red);
+}
+
+.pain-level-gradient div {
+    width: 1%;
+}
+
+.selection-color {
+    background-image: linear-gradient(lightgray, gray);
+}
